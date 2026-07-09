@@ -1,25 +1,30 @@
-# Folio— Freelance Portfolio Template (HTML · Tailwind · Alpine.js)
-#### Preview
+# My Portfolio
 
- - [Demo](https://themewagon.github.io/folio-html/)
+Welcome to my personal portfolio website.
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/folio-html/)
+## About Me
 
-## Getting Started
+I am a Web Developer passionate about creating modern and responsive websites.
 
-1. Clone Repository
-```
-git clone https://github.com/themewagon/folio-html.git
-```
+## Skills
 
-## Author 
-```
-Design and code is completely written by Laurent Begey and development team. 
-```
+* PYTHON
+* HTML
+* CSS
+* JavaScript
+* React
+* Bootstrap
+* Git & GitHub
 
-## License
+## Projects
 
- - Design and Code is Copyright &copy; <a href="https://lbegey78.gumroad.com/" target="_blank">Laurent Begey</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+### Stationary management system
+
+A responsive web-based application designed to manage the sale and distribution of Stationary items.
+
+## Contact
+
+* Email: kamaalwarsame0@gmail.com
+* GitHub: https://github.com/iamkemal
+
+
